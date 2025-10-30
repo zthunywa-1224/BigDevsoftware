@@ -1,2 +1,0 @@
-# Chuz
-bootstrap project
